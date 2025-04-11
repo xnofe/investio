@@ -1,7 +1,10 @@
 ---
-title: Welcome to Investio
+title: Investio
 ---
 
 # Investio
 
-Detta är innehåll. Detta är innehåll. Detta är innehåll.
+Välkommen till Investio - en sida om investeringar för de som vill!
+
+## Innehållsförteckning
+
