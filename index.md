@@ -4,7 +4,7 @@ title: Investio
 
 # Investio
 
-Välkommen till Investio - en sida om investeringar för alla som vill bli miljonärer.
+Välkommen till Investio - en sida som handlar om investeringar...
 
 ## Innehållsförteckning
 
